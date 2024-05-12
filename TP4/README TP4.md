@@ -1,4 +1,4 @@
-![logo](/.rsc/img/Logo.png)
+![logo](./IMAGENES/image.png)
 
 # TP4 - TP4 - 04/05/2024  
 
