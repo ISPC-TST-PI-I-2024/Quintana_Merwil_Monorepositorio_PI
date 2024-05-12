@@ -1,4 +1,5 @@
-![logo](/.rsc/img/Logo.png)
+![logo](./IMAGENES/image.png)
+
 
 # TP3 - TP #3 Transductores binarios - 28/04/2024  
 
