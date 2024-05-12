@@ -1,4 +1,4 @@
-![logo](/.rsc/img/Logo.png)
+![logo](./IMAGENES/image.png)
 
 # TP3 - Introducción al diseño de circuitos lógicos combinacionales y al álgebra de Boole - 28/04/2024  
 
